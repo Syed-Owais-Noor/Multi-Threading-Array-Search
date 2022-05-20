@@ -1,0 +1,14 @@
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\MultiThreadingArraySearch\MultiThreadingArraySearch\bin\Debug\netcoreapp3.1\MultiThreadingArraySearch.exe
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\MultiThreadingArraySearch\MultiThreadingArraySearch\bin\Debug\netcoreapp3.1\MultiThreadingArraySearch.deps.json
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\MultiThreadingArraySearch\MultiThreadingArraySearch\bin\Debug\netcoreapp3.1\MultiThreadingArraySearch.runtimeconfig.json
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\MultiThreadingArraySearch\MultiThreadingArraySearch\bin\Debug\netcoreapp3.1\MultiThreadingArraySearch.runtimeconfig.dev.json
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\MultiThreadingArraySearch\MultiThreadingArraySearch\bin\Debug\netcoreapp3.1\MultiThreadingArraySearch.dll
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\MultiThreadingArraySearch\MultiThreadingArraySearch\bin\Debug\netcoreapp3.1\MultiThreadingArraySearch.pdb
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\MultiThreadingArraySearch\MultiThreadingArraySearch\obj\Debug\netcoreapp3.1\MultiThreadingArraySearch.csproj.AssemblyReference.cache
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\MultiThreadingArraySearch\MultiThreadingArraySearch\obj\Debug\netcoreapp3.1\MultiThreadingArraySearch.GeneratedMSBuildEditorConfig.editorconfig
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\MultiThreadingArraySearch\MultiThreadingArraySearch\obj\Debug\netcoreapp3.1\MultiThreadingArraySearch.AssemblyInfoInputs.cache
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\MultiThreadingArraySearch\MultiThreadingArraySearch\obj\Debug\netcoreapp3.1\MultiThreadingArraySearch.AssemblyInfo.cs
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\MultiThreadingArraySearch\MultiThreadingArraySearch\obj\Debug\netcoreapp3.1\MultiThreadingArraySearch.csproj.CoreCompileInputs.cache
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\MultiThreadingArraySearch\MultiThreadingArraySearch\obj\Debug\netcoreapp3.1\MultiThreadingArraySearch.dll
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\MultiThreadingArraySearch\MultiThreadingArraySearch\obj\Debug\netcoreapp3.1\MultiThreadingArraySearch.pdb
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\MultiThreadingArraySearch\MultiThreadingArraySearch\obj\Debug\netcoreapp3.1\MultiThreadingArraySearch.genruntimeconfig.cache
